@@ -1,9 +1,9 @@
 package plugin.net.parsers.max3ds 
 {
 	import flash.utils.ByteArray;
-	import io.plugin.core.graphics.Color;
-	import io.plugin.math.algebra.APoint;
-	import io.plugin.math.algebra.AVector;
+	import plugin.core.graphics.Color;
+	import plugin.math.algebra.APoint;
+	import plugin.math.algebra.AVector;
 	import plugin.net.parsers.max3ds.types.Camera3DS;
 	import plugin.net.parsers.max3ds.types.Color3DS;
 	import plugin.net.parsers.max3ds.types.Face3DS;
